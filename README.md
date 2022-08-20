@@ -106,3 +106,5 @@ To get the latest apk fom the Github actions artifacts, follow these steps:
 ## Wiki
 
 https://github.com/openMF/mobile-wallet/wiki
+https://www.youtube.com/watch?v=u30gnMTiXPs
+https://www.youtube.com/watch?v=R6li5jMpz-0
